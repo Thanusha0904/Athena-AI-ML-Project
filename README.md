@@ -1,4 +1,5 @@
 Multimodal AI Reading Assistant
+Project submitted by: Thanusha Dadi(22118020)
 A real-time AI-powered reading support system designed to help learners improve reading accuracy, fluency, and focus.
 This prototype integrates speech recognition, computer vision attention tracking, and AI feedback generation into a single interactive Streamlit app.
 
